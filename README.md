@@ -1,5 +1,4 @@
-# ⚡ CircuitWhisperer — Day 22
-
+# ⚡ CircuitWhisperer
 > Local vision AI that reads circuit schematics, identifies components, explains circuit function, and flags wiring errors.
 
 ---
